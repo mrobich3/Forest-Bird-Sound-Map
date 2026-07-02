@@ -2,7 +2,7 @@
 
 **An interactive sound map of bird species diversity across Poland Municipal Forest (Poland, Ohio), along a freeway-to-interior gradient.**
 
-Bird species were identified by ear using [Merlin Bird ID](https://merlin.allaboutbirds.org/) (Cornell Lab of Ornithology) during 4-minute stationary listening sessions at 15 stops, surveyed on six mornings (6–8 AM) between June 17–23, 2026. The project tests whether the number of species you can hear rises as you move away from Interstate 680, using distance to the freeway and distance to water as predictors.
+Bird species were identified by using [Merlin Bird ID](https://merlin.allaboutbirds.org/) (Cornell Lab of Ornithology) during 4-minute stationary listening sessions at 15 stops, surveyed on six mornings (6–8 AM) between June 17–23, 2026. The project tests whether the number of species you can hear rises as you move away from Interstate 680, using distance to the freeway and distance to water as predictors.
 
 **Live map:** https://mrobich3.github.io/Forest-Bird-Sound-Map/
 
